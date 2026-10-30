@@ -1,4 +1,4 @@
-# react-exercises - exemplo aula
+# react-exercises - Ana Carlos
 
 Repositório de exercícios de React para a turma. O repositório começa vazio de propósito: o primeiro exercício é criar o projeto com Vite.
 
